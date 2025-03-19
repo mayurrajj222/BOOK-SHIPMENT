@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "056bf8c3-9014-4023-8c08-b7dbf36ae0e3"
+      }
+    },
+    "android": {
+      "package": "com.mayurrajj222.shippingapi"
+    }
+  }
+}
